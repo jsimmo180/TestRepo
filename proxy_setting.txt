@@ -1,0 +1,24 @@
+
+
+Proxy
+
+A proxy is a piece of software that is installed on a server.
+
+Within Simplyhealth we have a proxy server, which is the server that has the proxy software installed.
+
+All users on the netwrok will access the internet by going through this proxy server.
+
+This means the proxy can control what websites can be accessed and seen.
+
+The proxy can identify a user so it can give access to certain websites, based on the user or the groups the user is a part of.
+
+---- 
+
+The internet browsers you use are intelligent enough to pick up the details of the network proxy you are using.
+
+You can see these details by going into Internet Explorer and:
+	1. Go to Internet Options
+	2. Select the Connections tab
+	3. Select LAN Settings
+You will see the Proxy server settings, the values are protected but you can see them if you need them for 
+
